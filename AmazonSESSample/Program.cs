@@ -8,8 +8,8 @@ namespace AmazonSESSample
 {
     class Program
     {
-        static readonly string senderAddress = "sender@example.com";
-         static readonly string receiverAddress = "recipient@example.com";
+        static readonly string senderAddress = "p.poojitha16@gmail.com";
+         static readonly string receiverAddress = "testemailinnroad@gmail.com";
        static readonly string subject = "Amazon SES test (AWS SDK for .NET)";
        static readonly string textBody = "Amazon SES Test (.NET)\r\n"
                                         + "This email was sent through Amazon SES "
